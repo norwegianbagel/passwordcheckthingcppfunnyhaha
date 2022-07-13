@@ -15,8 +15,7 @@ int main() {
     bool hasSpecial = false;
     bool hasEmail = false;
     bool hasUsername = false;
-
-
+    
     cout << "Enter Password: ";
     cin >> passwd;
 
